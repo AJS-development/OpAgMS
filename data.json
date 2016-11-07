@@ -1,7 +1,7 @@
 [
   {
    "type": "connect",
-    "content": "192.158.30.16"
+    "content": "localhost"
     
     
   }
