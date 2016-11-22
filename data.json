@@ -1,5 +1,9 @@
 [
-
+  {
+   "type":"msg", 
+    "content":"Hello all!, this is the first global message for OpenAgar!"
+    
+  }
   
   
   
