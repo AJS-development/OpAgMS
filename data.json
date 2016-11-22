@@ -3,6 +3,11 @@
    "type":"msg", 
     "content":"Hello all!, this is the first global message for OpenAgar!"
     
+  },
+  {
+   "type":"checkUpdate", 
+    "content": "2.9.5",
+    "description": "Please update your servers by downloading it again. Move the key file to the new one. Your uid should be the same"
   }
   
   
