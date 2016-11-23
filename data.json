@@ -6,8 +6,8 @@
   },
   {
    "type":"checkUpdate", 
-    "content": "2.9.5",
-    "description": "Please update your servers by downloading it again. Move the key file to the new one. Your uid should be the same"
+    "content": "3.0.0",
+    "description": "Super efficiency update. You can run 2000 bots with no lag now"
   }
   
   
