@@ -1,13 +1,9 @@
 [
-  {
-   "type":"msg", 
-    "content":"Hello all!, this is the first global message for OpenAgar!"
-    
-  },
+ 
   {
    "type":"checkUpdate", 
-    "content": "3.0.5",
-    "description": "MINIONS!!! To use, first install the minions plugin"
+    "content": "3.2.0",
+    "description": "Multi server support and more"
   }
   
   
