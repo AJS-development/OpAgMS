@@ -17,12 +17,7 @@
     "src": "/README.md",
     "name": "README.md"
   },
-  {
-    "hash": "56a0f8ec55d63b0fa25837a4634c554db3877b0c",
-    "url": "/backup",
-    "src": "/backup",
-    "name": "backup"
-  },
+
   {
     "hash": "b58ad75958a057733b5d2cb58053aaa06f05a6e0",
     "url": "/cpu.js",
