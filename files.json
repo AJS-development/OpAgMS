@@ -414,12 +414,7 @@
     "src": "/source/modules/ini.js",
     "name": "ini.js"
   },
-  {
-    "hash": "2e9adb85d4c7ef2cabbf1003673bced134d137f7",
-    "url": "/source/modules/squares.json",
-    "src": "/source/modules/squares.json",
-    "name": "squares.json"
-  },
+
   {
     "hash": "e1641b519b2c9e9ae4a15cd0d2998b2c5cd28923",
     "url": "/source/settings/pluginConfig/README.md",
