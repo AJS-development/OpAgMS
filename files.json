@@ -55,12 +55,6 @@
     "name": "Minion.js"
   },
   {
-    "hash": "e7b648ce41ead8121f9451a2c484555fbd69674e",
-    "url": "/source/ai/OgarUL.js",
-    "src": "/source/ai/OgarUL.js",
-    "name": "OgarUL.js"
-  },
-  {
     "hash": "29af60cc6548e1e5df23e2fb38c666c4db6e6aaa",
     "url": "/source/ai/botAI.js",
     "src": "/source/ai/botAI.js",
@@ -311,12 +305,6 @@
     "url": "/source/core/stringBuilder.js",
     "src": "/source/core/stringBuilder.js",
     "name": "stringBuilder.js"
-  },
-  {
-    "hash": "0184fd3cdf323283b8fe58141bde208b4901cd07",
-    "url": "/source/core/test.js",
-    "src": "/source/core/test.js",
-    "name": "test.js"
   },
   {
     "hash": "51b2e4bc93b2d41520fe82bcf7fe2cdc9d5ebf94",
