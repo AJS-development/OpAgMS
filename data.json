@@ -2,8 +2,8 @@
  
   {
    "type":"checkUpdate", 
-    "content": "3.9.0",
-    "description": "Update includes: OpenAgar Statistics, bug fixes, and more (If you have the update command, you may use it)"
+    "content": "4.0.0",
+    "description": "Update includes: Buffers, Multi-server system revamp, Bug fixes (If you have the update command, you may use it)"
   }
   
   
