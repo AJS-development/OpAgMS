@@ -2,8 +2,8 @@
  
   {
    "type":"checkUpdate", 
-    "content": "4.0.0",
-    "description": "Update includes: Buffers, Multi-server system revamp, Bug fixes (If you have the update command, you may use it)"
+    "content": "4.2.0",
+    "description": "Update includes: Eat-range fix and other bug fixes (If you have the update command, you may use it)"
   }
   
   
