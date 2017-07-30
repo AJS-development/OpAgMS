@@ -42,12 +42,6 @@
     "name": "install.json"
   },
   {
-    "hash": "e7978b9f54069fe54377e494dc78a5a2166ba359",
-    "url": "/package-lock.json",
-    "src": "/package-lock.json",
-    "name": "package-lock.json"
-  },
-  {
     "hash": "ea2a134b36f6e48356d2dedfe36a099155624ee7",
     "url": "/package.json",
     "src": "/package.json",
