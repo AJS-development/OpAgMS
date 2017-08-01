@@ -215,6 +215,12 @@
     "src": "/source/core/GUIHandler.js",
     "name": "GUIHandler.js"
   },
+   {
+    "hash": "9e66abe093dad0e9e05d123b3adc27c980ac3264",
+    "url": "/source/core/errorManager.js",
+    "src": "/source/core/errorManager.js",
+    "name": "GUIHandler.js"
+  },
   {
     "hash": "f9f9a9d990b65a6649511b7b6319144a95542b03",
     "url": "/source/core/GraphicalInterface.js",
